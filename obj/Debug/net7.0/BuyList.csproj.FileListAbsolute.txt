@@ -1,0 +1,14 @@
+C:\workspace\BuyList\bin\Debug\net7.0\BuyList.exe
+C:\workspace\BuyList\bin\Debug\net7.0\BuyList.deps.json
+C:\workspace\BuyList\bin\Debug\net7.0\BuyList.runtimeconfig.json
+C:\workspace\BuyList\bin\Debug\net7.0\BuyList.dll
+C:\workspace\BuyList\bin\Debug\net7.0\BuyList.pdb
+C:\workspace\BuyList\obj\Debug\net7.0\BuyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BuyList\obj\Debug\net7.0\BuyList.AssemblyInfoInputs.cache
+C:\workspace\BuyList\obj\Debug\net7.0\BuyList.AssemblyInfo.cs
+C:\workspace\BuyList\obj\Debug\net7.0\BuyList.csproj.CoreCompileInputs.cache
+C:\workspace\BuyList\obj\Debug\net7.0\BuyList.dll
+C:\workspace\BuyList\obj\Debug\net7.0\refint\BuyList.dll
+C:\workspace\BuyList\obj\Debug\net7.0\BuyList.pdb
+C:\workspace\BuyList\obj\Debug\net7.0\BuyList.genruntimeconfig.cache
+C:\workspace\BuyList\obj\Debug\net7.0\ref\BuyList.dll
